@@ -6,9 +6,8 @@ Rozkłada materiał na krótkie sesje nauki i dobiera terminy kolejnych powtóre
 
 Projekt będzie rozwijany stopniowo wraz z kolejnymi etapami analizy i projektowania.
 
-Na początek:
-
 - [Wizja](docs/vision.md)
+- [Słownik domenowy](docs/glossary.md)
 
 ## Struktura
 
@@ -17,6 +16,7 @@ Study_Planner_PZ/
 ├── README.md
 └── docs/
     └── vision.md
+    └── glossary.md
 ```
 
 ## Autor

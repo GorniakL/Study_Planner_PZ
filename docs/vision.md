@@ -4,6 +4,6 @@ Studenci często przygotowują się do egzaminów w sposób chaotyczny, poświę
 
 Student tworzy talie, np. „Analiza matematyczna", i dodaje do nich fiszki z pytaniami i odpowiedziami. Po każdej fiszce ocenia, czy odpowiedział źle, z trudem czy łatwo, a aplikacja na tej podstawie wyznacza termin kolejnej powtórki.
 
-Student wpisuje datę egzaminu i liczbę minut, które ma każdego dnia na naukę. Aplikacja wybiera fiszki do powtórzenia i rozkłada je na krótkie sesje nauki, tak aby zdążył z całym materiałem.
+Student wpisuje, w jakim czasie chce nauczyć się materiału, np. w tydzień, oraz ile fiszek jest w stanie przejrzeć każdego dnia. Aplikacja wybiera fiszki do powtórzenia i rozkłada je na kolejne dni, tak aby student zdążył z całym materiałem.
 
 Student widzi swoje postępy: liczbę opanowanych fiszek, zaległe powtórki, skuteczność odpowiedzi oraz wykres postępów w czasie.
