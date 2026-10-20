@@ -8,6 +8,8 @@ Projekt będzie rozwijany stopniowo wraz z kolejnymi etapami analizy i projektow
 
 - [Wizja](docs/vision.md)
 - [Słownik domenowy](docs/glossary.md)
+- [Wymagania](docs/requirements.md)
+
 
 ## Struktura
 
@@ -17,6 +19,7 @@ Study_Planner_PZ/
 └── docs/
     └── vision.md
     └── glossary.md
+    └── requirements.md
 ```
 
 ## Autor
