@@ -1,5 +1,5 @@
 # Study_Planner
-Aplikacja do nauki z inteligentnym harmonogramem powtórek, która pomaga studentowi przygotować się do egzaminu. 
+Aplikacja do nauki z harmonogramem powtórek, która pomaga studentowi przygotować się do egzaminu. 
 Rozkłada materiał na krótkie sesje nauki i dobiera terminy kolejnych powtórek do wyników użytkownika.
 
 ## Dokumentacja
